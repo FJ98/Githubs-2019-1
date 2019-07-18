@@ -1,0 +1,8 @@
+// Created by felix on 6/5/2019.
+#ifndef SOLUCION_GEOMETRICPROG_H
+#define SOLUCION_GEOMETRICPROG_H
+
+
+
+
+#endif //SOLUCION_GEOMETRICPROG_H

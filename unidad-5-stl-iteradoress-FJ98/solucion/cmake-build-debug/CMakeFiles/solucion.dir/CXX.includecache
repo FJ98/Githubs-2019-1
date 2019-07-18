@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/felix/unidad-5-stl-iteradores-FJ98/solucion/Funciones.h
+iostream
+-
+vector
+-
+algorithm
+-
+
+C:/Users/felix/unidad-5-stl-iteradores-FJ98/solucion/Progression.h
+vector
+-
+
+C:/Users/felix/unidad-5-stl-iteradores-FJ98/solucion/main.cpp
+Funciones.h
+C:/Users/felix/unidad-5-stl-iteradores-FJ98/solucion/Funciones.h
+Progression.h
+C:/Users/felix/unidad-5-stl-iteradores-FJ98/solucion/Progression.h
+range.h
+C:/Users/felix/unidad-5-stl-iteradores-FJ98/solucion/range.h
+
+C:/Users/felix/unidad-5-stl-iteradores-FJ98/solucion/range.h
+
