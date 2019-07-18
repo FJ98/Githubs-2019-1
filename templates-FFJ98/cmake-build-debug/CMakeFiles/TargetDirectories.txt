@@ -1,0 +1,3 @@
+C:/Users/felix/templates-FJ98/QUICKSORT_TEMPLATE/cmake-build-debug/CMakeFiles/QUICKSORT_TEMPLATE.dir
+C:/Users/felix/templates-FJ98/QUICKSORT_TEMPLATE/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/felix/templates-FJ98/QUICKSORT_TEMPLATE/cmake-build-debug/CMakeFiles/rebuild_cache.dir
