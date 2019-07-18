@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/felix/GitHubs/practica-calificada-4-FJ98/main.cpp
+iostream
+-
+thread
+-
+vector
+-
+algorithm
+-
+future
+-
+mutex
+-
+
