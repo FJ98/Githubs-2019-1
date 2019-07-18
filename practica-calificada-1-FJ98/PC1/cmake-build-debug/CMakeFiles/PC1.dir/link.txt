@@ -1,0 +1,1 @@
+C:/cygwin64/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/PC1.dir/main.cpp.o CMakeFiles/PC1.dir/TwoLinkedList.cpp.o  -o PC1.exe -Wl,--out-implib,libPC1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

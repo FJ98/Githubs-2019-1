@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/felix/practica-calificada-1-FJ98/PC1/TwoLinkedList.cpp
+TwoLinkedList.h
+/cygdrive/c/Users/felix/practica-calificada-1-FJ98/PC1/TwoLinkedList.h
+iostream
+-
+
+/cygdrive/c/Users/felix/practica-calificada-1-FJ98/PC1/TwoLinkedList.h
+iostream
+-
+
+/cygdrive/c/Users/felix/practica-calificada-1-FJ98/PC1/main.cpp
+iostream
+-
+string
+-
+fstream
+-
+vector
+-
+cassert
+-
+TwoLinkedList.h
+/cygdrive/c/Users/felix/practica-calificada-1-FJ98/PC1/TwoLinkedList.h
+
