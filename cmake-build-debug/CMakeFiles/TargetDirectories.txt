@@ -1,3 +1,0 @@
-C:/Users/felix/GitHubs/practica-calificada-4-FJ98/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/felix/GitHubs/practica-calificada-4-FJ98/cmake-build-debug/CMakeFiles/PC4.dir
-C:/Users/felix/GitHubs/practica-calificada-4-FJ98/cmake-build-debug/CMakeFiles/rebuild_cache.dir
