@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/felix/GitHubs/practica-3-FJ98/pc3/Seccion.h
+vector
+-
+iostream
+-
+map
+-
+string
+-
+iomanip
+-
+fstream
+-
+
+C:/Users/felix/GitHubs/practica-3-FJ98/pc3/main.cpp
+Seccion.h
+C:/Users/felix/GitHubs/practica-3-FJ98/pc3/Seccion.h
+iostream
+-
+vector
+-
+algorithm
+-
+functional
+-
+cassert
+-
+deque
+-
+array
+-
+

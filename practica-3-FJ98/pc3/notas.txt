@@ -1,0 +1,10 @@
+C Jacinto 10
+C Maria 14
+C Marco 16
+C Ana 17
+L Maria
+D Jacinto
+L All
+D Maria
+D Marco
+L All
