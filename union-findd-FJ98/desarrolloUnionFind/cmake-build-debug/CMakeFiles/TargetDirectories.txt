@@ -1,0 +1,3 @@
+C:/Users/felix/union-find-FJ98/desarrolloUnionFind/cmake-build-debug/CMakeFiles/desarrolloUnionFind.dir
+C:/Users/felix/union-find-FJ98/desarrolloUnionFind/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/felix/union-find-FJ98/desarrolloUnionFind/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/felix/union-find-FJ98/desarrolloUnionFind/main.cpp
+iostream
+-
+set
+-
+unionFind.h
+C:/Users/felix/union-find-FJ98/desarrolloUnionFind/unionFind.h
+
+C:/Users/felix/union-find-FJ98/desarrolloUnionFind/unionFind.h
+vector
+-
+
