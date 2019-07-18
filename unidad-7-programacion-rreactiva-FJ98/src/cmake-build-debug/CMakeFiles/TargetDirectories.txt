@@ -1,0 +1,3 @@
+C:/Users/felix/unidad-7-programacion-reactiva-FJ98/src/cmake-build-debug/CMakeFiles/SFMLApp.dir
+C:/Users/felix/unidad-7-programacion-reactiva-FJ98/src/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/felix/unidad-7-programacion-reactiva-FJ98/src/cmake-build-debug/CMakeFiles/rebuild_cache.dir
