@@ -1,0 +1,1 @@
+C:/cygwin64/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/FELIX.dir/main.cpp.o CMakeFiles/FELIX.dir/Defense.cpp.o CMakeFiles/FELIX.dir/Attack.cpp.o CMakeFiles/FELIX.dir/Fighter.cpp.o CMakeFiles/FELIX.dir/Arena.cpp.o CMakeFiles/FELIX.dir/Fight.cpp.o  -o FELIX.exe -Wl,--out-implib,libFELIX.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

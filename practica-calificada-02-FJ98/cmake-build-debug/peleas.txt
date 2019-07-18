@@ -1,0 +1,18 @@
+BL
+E, A
+P, S, F
+CN
+E, S, A
+P, F
+JS
+E, S
+P, F
+CN
+E, S, A
+P, S, F
+BL
+E, S
+P, F
+JS
+E, S, A
+P, S, F

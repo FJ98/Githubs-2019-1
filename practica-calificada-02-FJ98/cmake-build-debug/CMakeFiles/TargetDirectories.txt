@@ -1,0 +1,3 @@
+/cygdrive/c/Users/felix/practica-calificada-2-FJ98/PC2-DESARROLLADO/FELIX/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/felix/practica-calificada-2-FJ98/PC2-DESARROLLADO/FELIX/cmake-build-debug/CMakeFiles/FELIX.dir
+/cygdrive/c/Users/felix/practica-calificada-2-FJ98/PC2-DESARROLLADO/FELIX/cmake-build-debug/CMakeFiles/edit_cache.dir
